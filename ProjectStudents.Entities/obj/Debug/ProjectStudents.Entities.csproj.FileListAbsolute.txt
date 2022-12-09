@@ -1,0 +1,11 @@
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\obj\Debug\ProjectStudents.Entities.csproj.AssemblyReference.cache
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\obj\Debug\ProjectStudents.Entities.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\bin\Debug\ProjectStudents.Entities.dll
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\bin\Debug\ProjectStudents.Entities.pdb
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\bin\Debug\ProjectStudents.DAL.dll
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\bin\Debug\ProjectStudents.Model.dll
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\bin\Debug\ProjectStudents.DAL.pdb
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\bin\Debug\ProjectStudents.Model.pdb
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\obj\Debug\ProjectStudents.Entities.csproj.CopyComplete
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\obj\Debug\ProjectStudents.Entities.dll
+C:\Users\97252\source\repos\ProjectStudents\ProjectStudents.Entities\obj\Debug\ProjectStudents.Entities.pdb
